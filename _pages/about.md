@@ -28,7 +28,7 @@ redirect_from:
       <a href="https://github.com/StuRinDQB"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
     </nav>
 
-    <p class="collaboration-note"><i class="fas fa-paper-plane" aria-hidden="true"></i> I expect to graduate in May 2026 and am currently on the job market for full-time Research Scientist and Applied Scientist positions.</p>
+    <p class="collaboration-note"><i class="fas fa-paper-plane" aria-hidden="true"></i> I expect to graduate in May 2027 and am currently on the job market for full-time Research Scientist and Applied Scientist positions.</p>
   </div>
 
   <figure class="profile-photo">
@@ -57,6 +57,15 @@ redirect_from:
   </div>
 
   <div class="publication-list">
+    <article class="publication-item">
+      <span class="venue-badge">Preprint 2026</span>
+      <div>
+        <h3><a href="https://arxiv.org/abs/2608.03275">MoEGen: Mixture-of-Experts for Instance-Adaptive LoRA Generation</a></h3>
+        <p><strong>Y. Zeng</strong>, L. Lu, Z. Li, Z. Li, S. Li, S. Liao, X. Wu, Z. Zhang, M. Wang, Y. Zhao, T. Yu, S. Gao</p>
+        <p class="publication-venue">arXiv preprint arXiv:2608.03275, 2026</p>
+      </div>
+    </article>
+
     <article class="publication-item">
       <span class="venue-badge">ACL 2026</span>
       <div>

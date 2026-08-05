@@ -296,6 +296,16 @@ html[data-theme="dark"] .collaboration-note {
   line-height: 1.45;
 }
 
+.publication-item h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.publication-item h3 a:hover {
+  color: var(--global-link-color-hover);
+  text-decoration: underline;
+}
+
 .publication-item p {
   margin: 0;
   color: var(--global-text-color-light);
