@@ -44,7 +44,7 @@ body {
 
 .profile-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 236px;
+  grid-template-columns: minmax(0, 1fr) 195px;
   gap: clamp(2rem, 5vw, 5rem);
   align-items: start;
 }
@@ -403,7 +403,7 @@ html[data-theme="dark"] .news-box {
   }
 
   .profile-hero {
-    grid-template-columns: minmax(0, 1fr) 185px;
+    grid-template-columns: minmax(0, 1fr) 160px;
     gap: 2rem;
   }
 
@@ -424,7 +424,7 @@ html[data-theme="dark"] .news-box {
   }
 
   .profile-photo {
-    width: 128px;
+    width: 112px;
     margin-top: 0;
     align-self: flex-end;
   }
