@@ -10,6 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Yiming Zeng - PhD Candidate in Computer Science @ University of Connecticut"
+masthead_title           : "Yiming Zeng"
 title_separator          : "-"
 name                     : &name "Yiming Zeng"
 description              : &description LLMs, AI, NLP, and Software Engineering. A researcher, creator, and Engineer who want to change the world. Ph.D Candidate in Computer Science @ UConn"
@@ -34,6 +35,7 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=iVODU-AAAAAJ"
+  github           : "StuRinDQB"
 
 
 
