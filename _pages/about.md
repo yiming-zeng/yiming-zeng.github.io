@@ -13,7 +13,7 @@ redirect_from:
     <p class="profile-kicker"><span aria-hidden="true"></span> PhD Candidate · University of Connecticut</p>
     <h1 id="profile-name">Yiming Zeng</h1>
 
-    <p class="profile-lead">I am a <strong>PhD candidate in Computer Science at the University of Connecticut (UConn)</strong>, advised by <strong>Dr. Tingting Yu</strong>. I also collaborate with <strong>Dr. Shangqian Gao</strong> on large language models. In September 2026, I will join the <strong>AI Center at Samsung Research America</strong> as a <strong>Research Scientist Intern</strong>. Previously, I was a <strong>Research Scientist Intern at ByteDance</strong> in San Jose, a software engineer at <strong>Baidu</strong>, and an AI researcher at <strong>UPMC Hillman Cancer Center</strong>.</p>
+    <p class="profile-lead">I am a <strong>PhD candidate in Computer Science at the University of Connecticut (UConn)</strong>, advised by <strong>Dr. Tingting Yu</strong>. I also collaborate with <strong>Dr. Shangqian Gao</strong> on large language models. I am currently wrapping up my <strong>Research Scientist internship at ByteDance</strong> in San Jose. I will join the <strong>AI Center at Samsung Research America</strong> as a <strong>Research Scientist Intern</strong> in September 2026. Previously, I was a software engineer at <strong>Baidu</strong> and an AI researcher at <strong>UPMC Hillman Cancer Center</strong>.</p>
 
     <p class="research-label">My current research interests include:</p>
     <ol class="research-interests">
@@ -39,7 +39,7 @@ redirect_from:
 <section class="home-section" aria-labelledby="news">
   <h2 id="news"><i class="fas fa-bullhorn" aria-hidden="true"></i> News</h2>
   <div class="news-box" tabindex="0">
-    <p><time datetime="2026-08">2026.08</time> I have decided to join the <strong>AI Center at Samsung Research America</strong> as a <strong>Research Scientist Intern</strong> this fall.</p>
+    <p><time datetime="2026-08">2026.08</time> As I wrap up my summer internship at <strong>ByteDance</strong>, I will join the <strong>AI Center at Samsung Research America</strong> as a <strong>Research Scientist Intern</strong> in September 2026.</p>
     <p><time datetime="2026-04">2026.04</time> I will be joining <strong>ByteDance</strong> as a <strong>Research Scientist Intern</strong> in San Jose this summer. See you in the Valley!</p>
     <p><time datetime="2026-04">2026.04</time> My first-author paper <strong>“HyperEdit: Unlocking Instruction-based Text Editing in LLMs via Hypernetworks”</strong> has been accepted to <strong>ACL 2026</strong>.</p>
     <p><time datetime="2026-02">2026.02</time> Our paper <strong>“Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry”</strong> has been accepted to <strong>ICLR 2026</strong>.</p>
