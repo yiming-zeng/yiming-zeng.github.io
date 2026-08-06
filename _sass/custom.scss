@@ -20,7 +20,7 @@ body {
 }
 
 .masthead {
-  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+  box-shadow: none;
 }
 
 .masthead__inner-wrap {
@@ -33,9 +33,9 @@ body {
 }
 
 .academic-home {
-  max-width: 1440px !important;
+  max-width: 1280px !important;
   margin-top: 0 !important;
-  padding: 3.25rem clamp(1.25rem, 5vw, 5rem) 1rem !important;
+  padding: 2.75rem clamp(1.25rem, 4vw, 3.5rem) 1rem !important;
 }
 
 .home-page {
@@ -44,8 +44,8 @@ body {
 
 .profile-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 195px;
-  gap: clamp(2rem, 5vw, 5rem);
+  grid-template-columns: minmax(0, 1fr) 155px;
+  gap: clamp(2rem, 4vw, 3.5rem);
   align-items: start;
 }
 
@@ -54,39 +54,26 @@ body {
 }
 
 .profile-kicker {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.55rem;
-  margin: 0 0 0.85rem;
+  margin: 0 0 0.65rem;
   color: var(--global-text-color-light);
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.profile-kicker span {
-  width: 0.55rem;
-  height: 0.55rem;
-  border-radius: 999px;
-  background: #a32323;
-  box-shadow: 0 0 0 5px rgba(163, 35, 35, 0.12);
+  font-size: 0.82rem;
+  font-weight: 500;
 }
 
 .profile-hero h1 {
-  margin: 0 0 0.9rem;
+  margin: 0 0 0.75rem;
   color: var(--global-text-color);
-  font-size: clamp(2.15rem, 4vw, 3.15rem);
-  line-height: 1.08;
-  letter-spacing: -0.045em;
+  font-size: clamp(2rem, 3.2vw, 2.55rem);
+  line-height: 1.12;
+  letter-spacing: -0.025em;
 }
 
 .profile-lead {
-  max-width: 1030px;
-  margin: 0 0 1.35rem;
+  max-width: 950px;
+  margin: 0 0 1.15rem;
   color: var(--global-text-color);
-  font-size: clamp(1rem, 1.25vw, 1.13rem);
-  line-height: 1.78;
+  font-size: 1rem;
+  line-height: 1.7;
 }
 
 .research-label {
@@ -97,37 +84,15 @@ body {
 }
 
 .research-interests {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.7rem;
-  margin: 0 0 1.5rem;
-  padding: 0;
-  list-style: none;
-  counter-reset: research;
+  margin: 0 0 1.3rem;
+  padding-left: 1.45rem;
 }
 
 .research-interests li {
-  display: flex;
-  align-items: center;
-  min-height: 3.6rem;
-  margin: 0;
-  padding: 0.75rem 0.9rem;
-  border: 1px solid var(--global-border-color);
-  border-radius: 12px;
-  background: linear-gradient(135deg, rgba(0, 0, 0, 0.045), rgba(0, 0, 0, 0.012));
-  counter-increment: research;
-  font-size: 0.84rem;
-  line-height: 1.35;
-}
-
-.research-interests li::before {
-  content: counter(research, decimal-leading-zero);
-  flex: 0 0 auto;
-  margin-right: 0.65rem;
-  color: var(--global-text-color-light);
-  font-size: 0.72rem;
-  font-weight: 800;
-  letter-spacing: 0.04em;
+  margin-bottom: 0.35rem;
+  padding-left: 0.15rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
 }
 
 .profile-links {
@@ -162,7 +127,7 @@ body {
 .collaboration-note {
   margin: 0;
   color: #9b2c2c;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   font-style: italic;
   font-weight: 700;
 }
@@ -174,25 +139,21 @@ html[data-theme="dark"] .collaboration-note {
 .profile-photo {
   position: relative;
   justify-self: end;
-  margin: 2.4rem 0 0;
-}
-
-.profile-photo::before {
-  content: none;
+  margin: 2rem 0 0;
 }
 
 .profile-photo img {
   display: block;
   width: 100%;
-  aspect-ratio: 0.92;
+  aspect-ratio: 1;
   border: 1px solid rgba(0, 0, 0, 0.1);
-  border-radius: 18px;
+  border-radius: 4px;
   object-fit: cover;
   box-shadow: none;
 }
 
 .home-section {
-  margin-top: 4rem;
+  margin-top: 3.25rem;
   scroll-margin-top: 6rem;
 }
 
@@ -201,15 +162,8 @@ html[data-theme="dark"] .collaboration-note {
   margin: 0;
   padding: 0 0 0.75rem;
   border-bottom: 1px solid var(--global-border-color);
-  font-size: clamp(1.35rem, 2vw, 1.65rem);
-  letter-spacing: -0.025em;
-}
-
-.home-section h2 i {
-  width: 1.35em;
-  color: var(--global-text-color);
-  font-size: 0.82em;
-  text-align: center;
+  font-size: 1.3rem;
+  letter-spacing: -0.01em;
 }
 
 .section-heading {
@@ -232,11 +186,11 @@ html[data-theme="dark"] .collaboration-note {
 .news-box {
   max-height: 310px;
   margin-top: 0.9rem;
-  padding: 0.2rem 1.2rem 0.2rem 1.45rem;
+  padding: 0 0.85rem 0 1rem;
   overflow-y: auto;
   border-left: 3px solid rgba(0, 0, 0, 0.42);
-  border-radius: 0 12px 12px 0;
-  background: rgba(0, 0, 0, 0.025);
+  border-radius: 0;
+  background: transparent;
   scrollbar-color: rgba(0, 0, 0, 0.4) transparent;
   scrollbar-width: thin;
 }
@@ -278,15 +232,15 @@ html[data-theme="dark"] .collaboration-note {
 
 .venue-badge {
   display: inline-block;
-  padding: 0.38rem 0.55rem;
-  border: 1px solid var(--global-dark-border-color);
-  border-radius: 7px;
-  background: rgba(0, 0, 0, 0.045);
+  padding: 0.15rem 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
   color: var(--global-text-color);
-  font-size: 0.69rem;
-  font-weight: 800;
+  font-size: 0.72rem;
+  font-weight: 700;
   letter-spacing: 0.03em;
-  text-align: center;
+  text-align: left;
   text-transform: uppercase;
 }
 
@@ -323,16 +277,17 @@ html[data-theme="dark"] .collaboration-note {
 .experience-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
+  gap: 2rem;
   margin-top: 1.15rem;
 }
 
 .info-card {
-  padding: 1.35rem;
-  border: 1px solid var(--global-border-color);
-  border-radius: 14px;
-  background: var(--global-bg-color);
-  box-shadow: 0 7px 24px rgba(0, 0, 0, 0.07);
+  padding: 1rem 0 0;
+  border: 0;
+  border-top: 1px solid var(--global-border-color);
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
 }
 
 .card-label {
@@ -389,7 +344,7 @@ img.author__avatar {
 html[data-theme="dark"] .research-interests li,
 html[data-theme="dark"] .venue-badge,
 html[data-theme="dark"] .news-box {
-  background: rgba(255, 255, 255, 0.035);
+  background: transparent;
 }
 
 html[data-theme="dark"] .news-box {
@@ -403,12 +358,8 @@ html[data-theme="dark"] .news-box {
   }
 
   .profile-hero {
-    grid-template-columns: minmax(0, 1fr) 160px;
+    grid-template-columns: minmax(0, 1fr) 135px;
     gap: 2rem;
-  }
-
-  .research-interests {
-    grid-template-columns: 1fr;
   }
 }
 
@@ -424,13 +375,13 @@ html[data-theme="dark"] .news-box {
   }
 
   .profile-photo {
-    width: 112px;
+    width: 92px;
     margin-top: 0;
     align-self: flex-end;
   }
 
   .profile-photo img {
-    border-radius: 14px;
+    border-radius: 4px;
   }
 
   .profile-hero h1 {

@@ -10,7 +10,7 @@ redirect_from:
 
 <section class="profile-hero" aria-labelledby="profile-name">
   <div class="profile-hero__content">
-    <p class="profile-kicker"><span aria-hidden="true"></span> PhD Candidate · University of Connecticut</p>
+    <p class="profile-kicker">PhD Candidate · University of Connecticut</p>
     <h1 id="profile-name">Yiming Zeng</h1>
 
     <p class="profile-lead">I am a <strong>PhD candidate in Computer Science at the University of Connecticut (UConn)</strong>, advised by <strong>Dr. Tingting Yu</strong>. I also collaborate with <strong>Dr. Shangqian Gao</strong> on large language models. In September 2026, I will join the <strong>AI Center at Samsung Research America</strong> as a <strong>Research Scientist Intern</strong>. Previously, I was a <strong>Research Scientist Intern at ByteDance</strong> in San Jose, a software engineer at <strong>Baidu</strong>, and an AI researcher at <strong>UPMC Hillman Cancer Center</strong>.</p>
@@ -37,7 +37,7 @@ redirect_from:
 </section>
 
 <section class="home-section" aria-labelledby="news">
-  <h2 id="news"><i class="fas fa-bullhorn" aria-hidden="true"></i> News</h2>
+  <h2 id="news">News</h2>
   <div class="news-box" tabindex="0">
     <p><time datetime="2026-08">2026.08</time> As I wrap up my summer internship at <strong>ByteDance</strong>, I will join the <strong>AI Center at Samsung Research America</strong> as a <strong>Research Scientist Intern</strong> in September 2026.</p>
     <p><time datetime="2026-04">2026.04</time> I will be joining <strong>ByteDance</strong> as a <strong>Research Scientist Intern</strong> in San Jose this summer. See you in the Valley!</p>
@@ -52,7 +52,7 @@ redirect_from:
 
 <section class="home-section" aria-labelledby="publications">
   <div class="section-heading">
-    <h2 id="publications"><i class="fas fa-book-open" aria-hidden="true"></i> Selected Publications</h2>
+    <h2 id="publications">Selected Publications</h2>
     <a class="section-link" href="https://scholar.google.com/citations?user=iVODU-AAAAAJ">View all on Google Scholar <span aria-hidden="true">→</span></a>
   </div>
 
@@ -105,7 +105,7 @@ redirect_from:
 </section>
 
 <section class="home-section" aria-labelledby="experience">
-  <h2 id="experience"><i class="fas fa-briefcase" aria-hidden="true"></i> Experience &amp; Service</h2>
+  <h2 id="experience">Experience &amp; Service</h2>
   <div class="experience-grid">
     <article class="info-card">
       <p class="card-label">Teaching</p>
@@ -127,6 +127,6 @@ redirect_from:
 </section>
 
 <section class="home-section interests-section" aria-labelledby="interests">
-  <h2 id="interests"><i class="fas fa-compass" aria-hidden="true"></i> Beyond Research</h2>
+  <h2 id="interests">Beyond Research</h2>
   <p>Table tennis · Running &amp; fitness · Pop music · Road trips</p>
 </section>
