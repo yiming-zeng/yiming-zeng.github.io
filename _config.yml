@@ -14,9 +14,9 @@ masthead_title           : "Yiming Zeng"
 title_separator          : "-"
 name                     : &name "Yiming Zeng"
 description              : &description LLMs, AI, NLP, and Software Engineering. A researcher, creator, and Engineer who want to change the world. Ph.D Candidate in Computer Science @ UConn"
-url: "https://sturindqb.github.io"
-baseurl: "/yiming_z.github.io"
-repository: "sturindqb/yiming_z.github.io"
+url: "https://yiming-zeng.github.io"
+baseurl: ""
+repository: "yiming-zeng/yiming-zeng.github.io"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
