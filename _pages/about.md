@@ -13,7 +13,7 @@ redirect_from:
     <p class="profile-kicker"><span aria-hidden="true"></span> PhD Candidate · University of Connecticut</p>
     <h1 id="profile-name">Yiming Zeng</h1>
 
-    <p class="profile-lead">I am a <strong>PhD candidate in Computer Science at the University of Connecticut (UConn)</strong>, advised by <strong>Dr. Tingting Yu</strong>. I also collaborate with <strong>Dr. Shangqian Gao</strong> on large language models. I am currently wrapping up my <strong>Research Scientist internship at ByteDance</strong> in San Jose. I will join the <strong>AI Center at Samsung Research America</strong> as a <strong>Research Scientist Intern</strong> in September 2026. Previously, I was a software engineer at <strong>Baidu</strong> and an AI researcher at <strong>UPMC Hillman Cancer Center</strong>.</p>
+    <p class="profile-lead">I am a <strong>PhD candidate in Computer Science at the University of Connecticut (UConn)</strong>, advised by <strong>Dr. Tingting Yu</strong>. I also collaborate with <strong>Dr. Shangqian Gao</strong> on large language models. In September 2026, I will join the <strong>AI Center at Samsung Research America</strong> as a <strong>Research Scientist Intern</strong>. Previously, I was a <strong>Research Scientist Intern at ByteDance</strong> in San Jose, a software engineer at <strong>Baidu</strong>, and an AI researcher at <strong>UPMC Hillman Cancer Center</strong>.</p>
 
     <p class="research-label">My current research interests include:</p>
     <ol class="research-interests">
