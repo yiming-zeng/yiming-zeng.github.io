@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yiming Zeng - PhD Candidate in Computer Science @ University of Connecticut"
+title                    : "Yiming Zeng - LLM Researcher & UConn PhD Candidate"
 masthead_title           : "Yiming Zeng"
 title_separator          : "-"
 name                     : &name "Yiming Zeng"
-description              : &description LLMs, AI, NLP, and Software Engineering. A researcher, creator, and Engineer who want to change the world. Ph.D Candidate in Computer Science @ UConn"
+description              : &description "Yiming Zeng is a UConn Computer Science PhD candidate researching efficient LLMs, NLP, and AI for healthcare, currently on the 2027 Research Scientist job market."
 url: "https://yiming-zeng.github.io"
 baseurl: ""
 repository: "yiming-zeng/yiming-zeng.github.io"
@@ -103,14 +103,27 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "Yiming_Zeng.jpg"
+og_description           : *description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Yiming Zeng"
+  image                  : "Yiming_Zeng.jpg"
+  job_title              : "PhD Candidate in Computer Science"
+  affiliation_name       : "University of Connecticut"
+  affiliation_url        : "https://uconn.edu/"
+  knows_about:
+    - "Large Language Models"
+    - "Efficient LLMs"
+    - "Natural Language Processing"
+    - "AI for Healthcare"
+  links:
+    - "https://scholar.google.com/citations?user=iVODU-AAAAAJ"
+    - "https://github.com/StuRinDQB"
+    - "https://www.researchgate.net/profile/Yiming-Zeng-9"
+    - "https://dblp.org/pid/404/5334.html"
 
 
 # Analytics
