@@ -274,6 +274,17 @@ html[data-theme="dark"] .collaboration-note {
   font-style: italic;
 }
 
+.publication-item .publication-abstract {
+  margin-top: 0.75rem;
+  color: var(--global-text-color);
+  font-size: 0.82rem;
+  line-height: 1.65;
+}
+
+.publication-abstract__label {
+  font-weight: 700;
+}
+
 .experience-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
