@@ -13,9 +13,9 @@ $doc-font-size              : 16;
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
-/* Site typefaces with resilient system fallbacks */
+/* Unified editorial typeface with resilient system fallbacks */
 $serif                      : "Source Serif 4", "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Songti SC", serif;
-$sans-serif                 : "Source Sans 3", Aptos, -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", Helvetica, Arial, sans-serif;
+$sans-serif                 : $serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* Sans serif typefaces */
