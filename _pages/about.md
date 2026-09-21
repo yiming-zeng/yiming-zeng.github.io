@@ -16,11 +16,11 @@ redirect_from:
 
     <p class="profile-lead">I am a <strong>PhD candidate in Computer Science at the University of Connecticut (UConn)</strong>, advised by <strong>Dr. Tingting Yu</strong>. I also collaborate with <strong>Dr. Shangqian Gao</strong> on large language models. I am currently a <strong>Research Scientist Intern</strong> with the <strong>AI Center at Samsung Research America</strong>. Previously, I was a <strong>Research Scientist Intern at ByteDance</strong> in San Jose, a software engineer at <strong>Baidu</strong>, and an AI researcher at <strong>UPMC Hillman Cancer Center</strong>.</p>
 
-    <p class="research-label">My current research interests include:</p>
+    <p class="research-label">My research focuses on:</p>
     <ol class="research-interests">
-      <li><strong>Efficient LLMs</strong></li>
-      <li><strong>Natural Language Processing (NLP)</strong></li>
-      <li><strong>AI for Healthcare (AI4Health)</strong></li>
+      <li><strong>Efficient and Adaptive Large Language Models</strong></li>
+      <li><strong>LLM Post-training, Evaluation, and Agentic AI</strong></li>
+      <li><strong>Natural Language Processing for Healthcare and Scientific Discovery</strong></li>
     </ol>
 
     <nav class="profile-links" aria-label="Profile links">
