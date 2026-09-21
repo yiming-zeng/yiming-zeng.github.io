@@ -110,8 +110,41 @@ redirect_from:
   </div>
 </section>
 
-<section class="home-section" aria-labelledby="experience">
-  <h2 id="experience">Experience &amp; Service</h2>
+<section class="home-section" aria-labelledby="industry-experience">
+  <h2 id="industry-experience">Industry Experience</h2>
+  <div class="industry-list">
+    <article class="industry-item">
+      <a class="industry-logo" href="https://research.samsung.com/aicenter_mountainview" aria-label="Samsung Research America AI Center">
+        <img src="{{ '/images/samsung-wordmark.svg' | relative_url }}" alt="Samsung">
+      </a>
+      <div class="industry-details">
+        <div class="industry-heading">
+          <h3><a href="https://research.samsung.com/aicenter_mountainview">Samsung Research America</a></h3>
+          <p class="industry-dates"><time datetime="2026-09">09/2026</time> – Present</p>
+        </div>
+        <p class="industry-role">Research Scientist Intern <span aria-hidden="true">·</span> Mountain View, California</p>
+        <p class="industry-team">AI Center</p>
+      </div>
+    </article>
+
+    <article class="industry-item">
+      <a class="industry-logo" href="https://www.bytedance.com/en/" aria-label="ByteDance">
+        <img src="{{ '/images/bytedance-wordmark.svg' | relative_url }}" alt="ByteDance">
+      </a>
+      <div class="industry-details">
+        <div class="industry-heading">
+          <h3><a href="https://www.bytedance.com/en/">ByteDance (TikTok)</a></h3>
+          <p class="industry-dates"><time datetime="2026-05">05/2026</time> – <time datetime="2026-08">08/2026</time></p>
+        </div>
+        <p class="industry-role">Research Scientist Intern <span aria-hidden="true">·</span> San Jose, California</p>
+        <p class="industry-team">Doubao Enterprise Agent Team at AML / <a href="https://www.volcengine.com/product/ark">Volcano Engine Ark</a></p>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="home-section" aria-labelledby="teaching-service">
+  <h2 id="teaching-service">Teaching &amp; Service</h2>
   <div class="experience-grid">
     <article class="info-card">
       <p class="card-label">Teaching</p>
