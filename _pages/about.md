@@ -115,7 +115,7 @@ redirect_from:
   <div class="industry-list">
     <article class="industry-item">
       <a class="industry-logo" href="https://research.samsung.com/aicenter_mountainview" aria-label="Samsung Research America AI Center">
-        <img src="{{ '/images/samsung-wordmark.svg' | relative_url }}" alt="Samsung">
+        <img src="{{ '/images/samsung-wordmark.svg' | relative_url }}" alt="Samsung" width="150" height="23" loading="lazy">
       </a>
       <div class="industry-details">
         <div class="industry-heading">
@@ -129,7 +129,7 @@ redirect_from:
 
     <article class="industry-item">
       <a class="industry-logo" href="https://www.bytedance.com/en/" aria-label="ByteDance">
-        <img src="{{ '/images/bytedance-wordmark.svg' | relative_url }}" alt="ByteDance">
+        <img src="{{ '/images/bytedance-wordmark.svg' | relative_url }}" alt="ByteDance" width="150" height="26" loading="lazy">
       </a>
       <div class="industry-details">
         <div class="industry-heading">
