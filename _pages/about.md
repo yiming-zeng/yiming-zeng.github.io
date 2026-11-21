@@ -147,7 +147,7 @@ redirect_from:
       </a>
       <div class="industry-details">
         <div class="industry-heading">
-          <h3><a href="https://www.bytedance.com/en/">ByteDance Seed (TikTok)</a></h3>
+          <h3><a href="https://www.bytedance.com/en/">ByteDance Seed</a></h3>
           <p class="industry-dates"><time datetime="2026-05">05/2026</time> – <time datetime="2026-08">08/2026</time></p>
         </div>
         <p class="industry-role">Research Scientist Intern <span aria-hidden="true">·</span> San Jose, California</p>
@@ -173,7 +173,7 @@ redirect_from:
     <article class="info-card">
       <p class="card-label">Academic Service</p>
       <h3>Conference Reviewer</h3>
-      <p>ICLR 2026 · NeurIPS 2025 · AAAI 2025</p>
+      <p>ICLR 2027 · AAAI 2027 · ACL ARR 2026 · NeurIPS 2026 · ICLR 2026 · NeurIPS 2025 · AAAI 2025</p>
       <p class="card-note">Contributing peer reviews across machine learning, natural language processing, and AI.</p>
     </article>
   </div>
