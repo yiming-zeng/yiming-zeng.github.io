@@ -1,10 +1,16 @@
 /* Site-specific presentation. */
 
 :root {
-  --global-base-color: #4a4a4a;
-  --global-link-color: #262626;
+  --global-base-color: #000;
+  --global-text-color: #000;
+  --global-text-color-light: #000;
+  --global-code-text-color: #000;
+  --global-fig-caption-color: #000;
+  --global-masthead-link-color: #000;
+  --global-masthead-link-color-hover: #000;
+  --global-link-color: #000;
   --global-link-color-hover: #a32323;
-  --global-link-color-visited: #555;
+  --global-link-color-visited: #000;
 }
 
 html[data-theme="dark"] {
