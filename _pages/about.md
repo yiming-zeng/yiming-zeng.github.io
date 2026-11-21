@@ -96,7 +96,6 @@ redirect_from:
       <span class="venue-badge">Preprint 2026</span>
       <div>
         <h4><a href="https://arxiv.org/abs/2609.33295">TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces</a></h4>
-        <p><strong>Y. Zeng</strong> (co-first author), et al.</p>
         <p class="publication-venue">arXiv preprint arXiv:2609.33295, 2026</p>
         <p><em>Work at <a href="https://seed.bytedance.com/en/">ByteDance Seed</a></em></p>
         <p class="publication-abstract"><span class="publication-abstract__label">Abstract.</span> Agents can complete tasks while still exhibiting undesirable behaviors during execution. TraceDance turns real-world deployment traces into targeted benchmarks for user-specified behaviors, combining programmable retrieval with LLM-based confirmation. It evaluates a model's next response at recorded decision points using behavior-specific rubrics, without reference answers or environment replay. Across coding and general tool use, the system constructs 107 benchmarks with 4,125 instances from 252,557 sessions. Nine frontier LLMs achieve a mean pass rate of only 26.7%, highlighting persistent gaps in agent behavior.</p>
@@ -107,7 +106,6 @@ redirect_from:
       <span class="venue-badge">Preprint 2026</span>
       <div>
         <h4><a href="https://arxiv.org/abs/2608.03275">MoEGen: Mixture-of-Experts for Instance-Adaptive LoRA Generation</a></h4>
-        <p><strong>Y. Zeng</strong>, L. Lu, Z. Li, Z. Li, S. Li, S. Liao, X. Wu, Z. Zhang, M. Wang, Y. Zhao, T. Yu, S. Gao</p>
         <p class="publication-venue">arXiv preprint arXiv:2608.03275, 2026</p>
         <p class="publication-abstract"><span class="publication-abstract__label">Abstract.</span> Existing mixture-of-experts approaches to parameter-efficient fine-tuning typically store a complete LoRA adapter for every expert, so storage grows with the expert pool and adaptation remains limited to those fixed experts. MoEGen instead represents experts as compact learned codes, routes each input across them, and feeds the resulting combination to a lightweight hypernetwork that generates instance-specific low-rank updates. Across eight commonsense-reasoning benchmarks and three backbone models, it consistently improves on strong static and MoE-based PEFT baselines while also performing well in joint medical- and legal-domain adaptation.</p>
       </div>
@@ -117,7 +115,6 @@ redirect_from:
       <span class="venue-badge">ACL 2026</span>
       <div>
         <h4>HyperEdit: Unlocking Instruction-based Text Editing in LLMs via Hypernetworks</h4>
-        <p><strong>Y. Zeng</strong>, J. Cao, Z. Li, W. Yu, Z. Ye, D. Xiang, T. Hua, X. Liu, S. Gao, T. Yu</p>
         <p class="publication-venue">Association for Computational Linguistics (ACL), 2026, pp. 466–480</p>
         <p class="publication-abstract"><span class="publication-abstract__label">Abstract.</span> Instruction-based editing requires a model to carry out a requested change while leaving unrelated content untouched, a requirement that generic text-generation methods often fail to satisfy. HyperEdit combines a hypernetwork that produces request-specific adaptation parameters with difference-aware regularization that concentrates supervision on modified spans. This design improves alignment with diverse editing instructions and reduces unnecessary changes, producing relative BLEU gains of 9%–30% on edited regions over leading baselines with a model of only 3B parameters.</p>
       </div>
@@ -127,7 +124,6 @@ redirect_from:
       <span class="venue-badge">EMNLP 2025</span>
       <div>
         <h4>Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications</h4>
-        <p><strong>Y. Zeng</strong>, W. Yu, Z. Li, T. Ren, Y. Ma, J. Cao, X. Chen, T. Yu</p>
         <p class="publication-venue">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025, pp. 2193–2206</p>
         <p class="publication-abstract"><span class="publication-abstract__label">Abstract.</span> State-of-the-art language models still have difficulty making precise, instruction-driven edits without introducing unrelated changes, especially in structured domains. The paper introduces InstrEditBench, an automatically constructed benchmark with more than 30,000 editing tasks covering Wikipedia articles, LaTeX, source code, and database languages, together with FineEdit, a model trained specifically for accurate context-aware editing. FineEdit improves on Gemini by about 10% in single-turn editing, exceeds Llama-3.2-3B and Mistral-7B-OpenOrca by larger margins, and generalizes effectively to realistic multi-turn scenarios.</p>
       </div>
@@ -140,7 +136,6 @@ redirect_from:
       <span class="venue-badge">ICLR 2026</span>
       <div>
         <h4>Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry</h4>
-        <p>Z. Li, Y. Zhang, M. Li, Y. Ji, <strong>Y. Zeng</strong>, N. Cheng, Y. Zhu, Y. Wang, S. Wang, et al.</p>
         <p class="publication-venue">The International Conference on Learning Representations (ICLR), 2026</p>
         <p class="publication-abstract"><span class="publication-abstract__label">Abstract.</span> Prompting large language models as reference-free judges is expensive, difficult to interpret, and sensitive to prompt wording. This work shows that small language models can contain strong evaluative signals in their hidden representations even when their generation quality is limited, motivating the Semantic Capacity Asymmetry Hypothesis. Based on this insight, INSPECTOR predicts aspect-level scores directly from small-model representations without decoding. On GSM8K, MATH, and GPQA, it substantially outperforms prompted small models and approaches the judgments of full-size LLMs with greater efficiency and interpretability.</p>
       </div>
@@ -150,7 +145,6 @@ redirect_from:
       <span class="venue-badge">IEEE BHI 2024</span>
       <div>
         <h4>ReguloGPT: Harnessing GPT for End-to-End Knowledge Graph Construction of Molecular Regulatory Pathways</h4>
-        <p>X. Wu, S. Jo, <strong>Y. Zeng</strong>, A. Das, T. H. Zhang, P. Patel, Y. Wei, L. Li, S. J. Gao, et al.</p>
         <p class="publication-venue">2024 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)</p>
         <p class="publication-abstract"><span class="publication-abstract__label">Abstract.</span> Biomedical knowledge-graph systems often struggle to capture the hierarchical relationships and biological context found in molecular regulatory pathways. ReguloGPT uses GPT-4 in-context learning to jointly recognize entities, extract N-ary regulatory relationships, and predict context, embedding that context directly into graph edges to reduce semantic inconsistencies. Evaluation on a benchmark of 400 annotated PubMed titles shows clear gains over existing methods, while a GPT-4-based G-Eval procedure closely tracks manual evaluation. The resulting m<sup>6</sup>A knowledge graph helps reveal regulatory mechanisms associated with cancer phenotypes.</p>
       </div>
