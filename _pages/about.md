@@ -65,6 +65,7 @@ redirect_from:
         <h4><a href="https://arxiv.org/abs/2609.33295">TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces</a></h4>
         <p><strong>Y. Zeng</strong> (co-first author), et al.</p>
         <p class="publication-venue">arXiv preprint arXiv:2609.33295, 2026</p>
+        <p><em>Work at <a href="https://seed.bytedance.com/en/">ByteDance Seed</a></em></p>
         <p class="publication-abstract"><span class="publication-abstract__label">Abstract.</span> Agents can complete tasks while still exhibiting undesirable behaviors during execution. TraceDance turns real-world deployment traces into targeted benchmarks for user-specified behaviors, combining programmable retrieval with LLM-based confirmation. It evaluates a model's next response at recorded decision points using behavior-specific rubrics, without reference answers or environment replay. Across coding and general tool use, the system constructs 107 benchmarks with 4,125 instances from 252,557 sessions. Nine frontier LLMs achieve a mean pass rate of only 26.7%, highlighting persistent gaps in agent behavior.</p>
       </div>
     </article>
