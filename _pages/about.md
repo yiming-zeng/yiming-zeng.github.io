@@ -37,6 +37,39 @@ redirect_from:
   </figure>
 </section>
 
+<section class="home-section" aria-labelledby="industry-experience">
+  <h2 id="industry-experience">Industry Experience</h2>
+  <div class="industry-list">
+    <article class="industry-item">
+      <a class="industry-logo" href="https://research.samsung.com/aicenter_mountainview" aria-label="Samsung Research America AI Center">
+        <img src="{{ '/images/samsung-wordmark.svg' | relative_url }}" alt="Samsung" width="150" height="23" loading="lazy">
+      </a>
+      <div class="industry-details">
+        <div class="industry-heading">
+          <h3><a href="https://research.samsung.com/aicenter_mountainview">Samsung Research America</a></h3>
+          <p class="industry-dates"><time datetime="2026-09">09/2026</time> – Present</p>
+        </div>
+        <p class="industry-role">Research Scientist Intern <span aria-hidden="true">·</span> Mountain View, California</p>
+        <p class="industry-team">AI Center</p>
+      </div>
+    </article>
+
+    <article class="industry-item">
+      <a class="industry-logo" href="https://www.bytedance.com/en/" aria-label="ByteDance Seed">
+        <img src="{{ '/images/bytedance-wordmark.svg' | relative_url }}" alt="ByteDance Seed" width="150" height="26" loading="lazy">
+      </a>
+      <div class="industry-details">
+        <div class="industry-heading">
+          <h3><a href="https://www.bytedance.com/en/">ByteDance Seed</a></h3>
+          <p class="industry-dates"><time datetime="2026-05">05/2026</time> – <time datetime="2026-08">08/2026</time></p>
+        </div>
+        <p class="industry-role">Research Scientist Intern <span aria-hidden="true">·</span> San Jose, California</p>
+        <p class="industry-team"><a href="https://seed.bytedance.com/en/">ByteDance Seed</a></p>
+      </div>
+    </article>
+  </div>
+</section>
+
 <section class="home-section" aria-labelledby="news">
   <h2 id="news">News</h2>
   <div class="news-box" tabindex="0">
@@ -120,39 +153,6 @@ redirect_from:
         <p>X. Wu, S. Jo, <strong>Y. Zeng</strong>, A. Das, T. H. Zhang, P. Patel, Y. Wei, L. Li, S. J. Gao, et al.</p>
         <p class="publication-venue">2024 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)</p>
         <p class="publication-abstract"><span class="publication-abstract__label">Abstract.</span> Biomedical knowledge-graph systems often struggle to capture the hierarchical relationships and biological context found in molecular regulatory pathways. ReguloGPT uses GPT-4 in-context learning to jointly recognize entities, extract N-ary regulatory relationships, and predict context, embedding that context directly into graph edges to reduce semantic inconsistencies. Evaluation on a benchmark of 400 annotated PubMed titles shows clear gains over existing methods, while a GPT-4-based G-Eval procedure closely tracks manual evaluation. The resulting m<sup>6</sup>A knowledge graph helps reveal regulatory mechanisms associated with cancer phenotypes.</p>
-      </div>
-    </article>
-  </div>
-</section>
-
-<section class="home-section" aria-labelledby="industry-experience">
-  <h2 id="industry-experience">Industry Experience</h2>
-  <div class="industry-list">
-    <article class="industry-item">
-      <a class="industry-logo" href="https://research.samsung.com/aicenter_mountainview" aria-label="Samsung Research America AI Center">
-        <img src="{{ '/images/samsung-wordmark.svg' | relative_url }}" alt="Samsung" width="150" height="23" loading="lazy">
-      </a>
-      <div class="industry-details">
-        <div class="industry-heading">
-          <h3><a href="https://research.samsung.com/aicenter_mountainview">Samsung Research America</a></h3>
-          <p class="industry-dates"><time datetime="2026-09">09/2026</time> – Present</p>
-        </div>
-        <p class="industry-role">Research Scientist Intern <span aria-hidden="true">·</span> Mountain View, California</p>
-        <p class="industry-team">AI Center</p>
-      </div>
-    </article>
-
-    <article class="industry-item">
-      <a class="industry-logo" href="https://www.bytedance.com/en/" aria-label="ByteDance Seed">
-        <img src="{{ '/images/bytedance-wordmark.svg' | relative_url }}" alt="ByteDance Seed" width="150" height="26" loading="lazy">
-      </a>
-      <div class="industry-details">
-        <div class="industry-heading">
-          <h3><a href="https://www.bytedance.com/en/">ByteDance Seed</a></h3>
-          <p class="industry-dates"><time datetime="2026-05">05/2026</time> – <time datetime="2026-08">08/2026</time></p>
-        </div>
-        <p class="industry-role">Research Scientist Intern <span aria-hidden="true">·</span> San Jose, California</p>
-        <p class="industry-team"><a href="https://seed.bytedance.com/en/">ByteDance Seed</a></p>
       </div>
     </article>
   </div>
