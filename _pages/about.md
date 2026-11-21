@@ -14,7 +14,7 @@ redirect_from:
     <p class="profile-kicker">PhD Candidate · University of Connecticut</p>
     <h1 id="profile-name">Yiming Zeng</h1>
 
-    <p class="profile-lead">I am a <strong>PhD candidate in Computer Science at the University of Connecticut (UConn)</strong>, advised by <strong>Dr. Tingting Yu</strong>. I am also advised by <strong>Dr. Shangqian Gao</strong>, a <strong>Senior Research Scientist at AMD</strong>. I am currently a <strong>Research Scientist Intern</strong> with the <strong>AI Center at Samsung Research America</strong>. Previously, I was a <strong>Research Scientist Intern at ByteDance</strong> in San Jose, a software engineer at <strong>Baidu</strong>, and an AI researcher at <strong>UPMC Hillman Cancer Center</strong>.</p>
+    <p class="profile-lead">I am a <strong>PhD candidate in Computer Science at the University of Connecticut (UConn)</strong>, advised by <strong>Dr. Tingting Yu</strong>. I am also advised by <strong>Dr. Shangqian Gao</strong>, a <strong>Senior Research Scientist at AMD</strong>. I am currently a <strong>Research Scientist Intern</strong> with the <strong>AI Center at Samsung Research America</strong>. Previously, I was a <strong>Research Scientist Intern at ByteDance Seed</strong> in San Jose, a software engineer at <strong>Baidu</strong>, and an AI researcher at <strong>UPMC Hillman Cancer Center</strong>.</p>
 
     <p class="research-label">My research focuses on:</p>
     <ol class="research-interests">
@@ -40,8 +40,8 @@ redirect_from:
 <section class="home-section" aria-labelledby="news">
   <h2 id="news">News</h2>
   <div class="news-box" tabindex="0">
-    <p><time datetime="2026-09">2026.09</time> After completing my summer internship at <strong>ByteDance</strong>, I joined the <strong>AI Center at Samsung Research America</strong> as a <strong>Research Scientist Intern</strong>.</p>
-    <p><time datetime="2026-04">2026.04</time> I will be joining <strong>ByteDance</strong> as a <strong>Research Scientist Intern</strong> in San Jose this summer. See you in the Valley!</p>
+    <p><time datetime="2026-09">2026.09</time> After completing my summer internship at <strong>ByteDance Seed</strong>, I joined the <strong>AI Center at Samsung Research America</strong> as a <strong>Research Scientist Intern</strong>.</p>
+    <p><time datetime="2026-04">2026.04</time> I will be joining <strong>ByteDance Seed</strong> as a <strong>Research Scientist Intern</strong> in San Jose this summer. See you in the Valley!</p>
     <p><time datetime="2026-04">2026.04</time> My first-author paper <strong>“HyperEdit: Unlocking Instruction-based Text Editing in LLMs via Hypernetworks”</strong> has been accepted to <strong>ACL 2026</strong>.</p>
     <p><time datetime="2026-02">2026.02</time> Our paper <strong>“Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry”</strong> has been accepted to <strong>ICLR 2026</strong>.</p>
     <p><time datetime="2025-08">2025.08</time> My first-author paper <strong>“Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications”</strong> has been accepted to <strong>EMNLP 2025</strong>.</p>
@@ -138,12 +138,12 @@ redirect_from:
     </article>
 
     <article class="industry-item">
-      <a class="industry-logo" href="https://www.bytedance.com/en/" aria-label="ByteDance">
-        <img src="{{ '/images/bytedance-wordmark.svg' | relative_url }}" alt="ByteDance" width="150" height="26" loading="lazy">
+      <a class="industry-logo" href="https://www.bytedance.com/en/" aria-label="ByteDance Seed">
+        <img src="{{ '/images/bytedance-wordmark.svg' | relative_url }}" alt="ByteDance Seed" width="150" height="26" loading="lazy">
       </a>
       <div class="industry-details">
         <div class="industry-heading">
-          <h3><a href="https://www.bytedance.com/en/">ByteDance (TikTok)</a></h3>
+          <h3><a href="https://www.bytedance.com/en/">ByteDance Seed (TikTok)</a></h3>
           <p class="industry-dates"><time datetime="2026-05">05/2026</time> – <time datetime="2026-08">08/2026</time></p>
         </div>
         <p class="industry-role">Research Scientist Intern <span aria-hidden="true">·</span> San Jose, California</p>
