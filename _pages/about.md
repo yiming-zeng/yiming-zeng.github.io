@@ -61,6 +61,16 @@ redirect_from:
     <article class="publication-item">
       <span class="venue-badge">Preprint 2026</span>
       <div>
+        <h3><a href="https://arxiv.org/abs/2609.33295">TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces</a></h3>
+        <p><strong>Y. Zeng</strong> (co-first author), et al.</p>
+        <p class="publication-venue">arXiv preprint arXiv:2609.33295, 2026</p>
+        <p class="publication-abstract"><span class="publication-abstract__label">Abstract.</span> Agents can complete tasks while still exhibiting undesirable behaviors during execution. TraceDance turns real-world deployment traces into targeted benchmarks for user-specified behaviors, combining programmable retrieval with LLM-based confirmation. It evaluates a model's next response at recorded decision points using behavior-specific rubrics, without reference answers or environment replay. Across coding and general tool use, the system constructs 107 benchmarks with 4,125 instances from 252,557 sessions. Nine frontier LLMs achieve a mean pass rate of only 26.7%, highlighting persistent gaps in agent behavior.</p>
+      </div>
+    </article>
+
+    <article class="publication-item">
+      <span class="venue-badge">Preprint 2026</span>
+      <div>
         <h3><a href="https://arxiv.org/abs/2608.03275">MoEGen: Mixture-of-Experts for Instance-Adaptive LoRA Generation</a></h3>
         <p><strong>Y. Zeng</strong>, L. Lu, Z. Li, Z. Li, S. Li, S. Liao, X. Wu, Z. Zhang, M. Wang, Y. Zhao, T. Yu, S. Gao</p>
         <p class="publication-venue">arXiv preprint arXiv:2608.03275, 2026</p>
@@ -137,7 +147,7 @@ redirect_from:
           <p class="industry-dates"><time datetime="2026-05">05/2026</time> – <time datetime="2026-08">08/2026</time></p>
         </div>
         <p class="industry-role">Research Scientist Intern <span aria-hidden="true">·</span> San Jose, California</p>
-        <p class="industry-team">Doubao Enterprise Agent Team at AML / <a href="https://www.volcengine.com/product/ark">Volcano Engine Ark</a></p>
+        <p class="industry-team"><a href="https://seed.bytedance.com/en/">ByteDance Seed</a></p>
       </div>
     </article>
   </div>
