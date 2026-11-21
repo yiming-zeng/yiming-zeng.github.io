@@ -229,6 +229,12 @@ html[data-theme="dark"] .collaboration-note {
   letter-spacing: 0.025em;
 }
 
+.publication-group-title {
+  margin: 1.6rem 0 0.3rem;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
 .publication-list {
   display: grid;
   gap: 0;
@@ -257,18 +263,18 @@ html[data-theme="dark"] .collaboration-note {
   text-transform: uppercase;
 }
 
-.publication-item h3 {
+.publication-item h4 {
   margin: 0 0 0.35rem;
   font-size: 1rem;
   line-height: 1.45;
 }
 
-.publication-item h3 a {
+.publication-item h4 a {
   color: inherit;
   text-decoration: none;
 }
 
-.publication-item h3 a:hover {
+.publication-item h4 a:hover {
   color: var(--global-link-color-hover);
   text-decoration: underline;
 }
